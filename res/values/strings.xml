@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Color Temperature</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    
+    <string name="settings_opacity">Opacity</string>
+    <string name="settings_color_temp">Color temperature</string>
+    <string name="settings_darkness">Darkness</string>
+
+</resources>
